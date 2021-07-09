@@ -7,6 +7,6 @@ Chat room app
 * Shows lists of all connected users 
 * Uses Threads and TCP for multiple connections to the server
 
-###UI
+### UI
 
 ![alt text](chat1.png)
